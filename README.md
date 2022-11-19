@@ -2,7 +2,7 @@
 #### I am a developer as well as a SEO
 ![I am a developer as well as a SEO](https://github.com/devtanvirbd/devtanvirbd/blob/main/SEO-Tanvir-bd.jpg)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+Hey! I am Mohammad Tanvir and I graduated from the best university in Bangladesh, the University of Dhaka. I am a Chemical Engineer. I like to research a lot. Hence I became a Web developer and SEO consultant.
 
 Skills: VUE JS / REACT / JS / HTML / CSS
 
