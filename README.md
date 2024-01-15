@@ -1,16 +1,16 @@
 ### Hi there 👋, My name is SEO Tanvir Bd
 #### I am a python web scraper and data analyst
 ![I am a developer as well as a SEO](https://github.com/devtanvirbd/devtanvirbd/blob/main/SEO-Tanvir-bd.jpg)
-👉tanvirafra1@gmail.com
-My services and what I do and did:
+👉tanvirafra1@gmail.com<br>
+**My services and what I do and did:**<br>
 
-👉 Python Web Scraper , Scraping using API, Image scraping
-👉 Python bot, Python Automation and Python GUI Apps
-👉 Data cleaning , Data analysis , Sentiment analysis and NLP
-👉 Excels, SQL, Python , Pandas
-👉 Twitter , Linkedin , Youtube , Facebook , Instagram scraper
-👉 Booking.com, Udemy, Amazon.com scraping
-👉 A couple of university websites scraping
+👉 Python Web Scraper , Scraping using API, Image scraping<br>
+👉 Python bot, Python Automation and Python GUI Apps<br>
+👉 Data cleaning , Data analysis , Sentiment analysis and NLP<br>
+👉 Excels, SQL, Python , Pandas<br>
+👉 Twitter , Linkedin , Youtube , Facebook , Instagram scraper<br>
+👉 Booking.com, Udemy, Amazon.com scraping<br>
+👉 A couple of university websites scraping<br>
 
 - 🔭 I’m currently working on python and data analysis 
 - 🌱 I’m currently learning Java script 
