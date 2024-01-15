@@ -1,12 +1,18 @@
 ### Hi there 👋, My name is SEO Tanvir Bd
-#### I am a developer as well as a SEO
+#### I am a python web scraper and data analyst
 ![I am a developer as well as a SEO](https://github.com/devtanvirbd/devtanvirbd/blob/main/SEO-Tanvir-bd.jpg)
+👉tanvirafra1@gmail.com
+My services and what I do and did:
 
-Hey! I am Mohammad Tanvir and I graduated from the best university in Bangladesh, the University of Dhaka. I am a Chemical Engineer. I like to research a lot. Hence I became a Web developer and SEO consultant.
+👉 Python Web Scraper , Scraping using API, Image scraping
+👉 Python bot, Python Automation and Python GUI Apps
+👉 Data cleaning , Data analysis , Sentiment analysis and NLP
+👉 Excels, SQL, Python , Pandas
+👉 Twitter , Linkedin , Youtube , Facebook , Instagram scraper
+👉 Booking.com, Udemy, Amazon.com scraping
+👉 A couple of university websites scraping
 
-Skills: VUE JS / REACT / JS / HTML / CSS
-
-- 🔭 I’m currently working on email template 
+- 🔭 I’m currently working on python and data analysis 
 - 🌱 I’m currently learning Java script 
 - 👯 I’m looking to collaborate on github 
 - 📫 How to reach me: follow my social media 
