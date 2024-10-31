@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is SEO Tanvir Bd
 #### I am a python web scraper and data analyst
-![I am a developer as well as a SEO](https://github.com/devtanvirbd/devtanvirbd/blob/main/SEO-Tanvir-bd.jpg)
+![I am a developer as well as a SEO](https://github.com/seotanvirbd/seotanvirbd/blob/main/github_banner.png)
 👉tanvirafra1@gmail.com<br>
 **My services and what I do and did:**<br>
 
